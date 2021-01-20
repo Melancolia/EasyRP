@@ -12,7 +12,7 @@ EasyRP (Custom Discord Rich Presence) https://github.com/Pizzabelly/EasyRP
 5 Discord should show the game on your profile
 	- if not, add the exe as a game on discord and the file path should change to your presence
 You can edit the config any time while the program is running to change the presence (make sure to save the file)
-#############
+
 I do not own this program or any other third party. Any mistake you make or indignation goes to their respective copyright.
 This is for fun, fair play. Be wise and consistent, greetings.
 ~ Mël
